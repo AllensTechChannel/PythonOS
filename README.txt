@@ -1,0 +1,1 @@
+To start python OS download Python OS, Mount the .iso file and select Start.bat.
